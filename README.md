@@ -12,6 +12,9 @@ Created by AIM Lab members: Julia Huang, Arnav Jain, Yashwanth Ravipati, Gregory
 Swin Transformer <br>
 MNet+nnUNet<br>
 
+nnUNet citation: https://github.com/MIC-DKFZ/nnUNet <br>
+MNet citation: https://github.com/zfdong-code/mnet
+
 # HECKTOR2022 Challenge Information
 https://hecktor.grand-challenge.org/Timeline/ 
 

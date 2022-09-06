@@ -6,6 +6,12 @@ Created by AIM Lab members: Julia Huang, Arnav Jain, Yashwanth Ravipati, Gregory
 
 <b>Keywords:</b> Segmentation · HECKTOR · Deep learning
 
+#Models We Implemented for HECKTOR
+2D nnUNet (not used as official submission)
+3D nnUNet
+Swin Transformer
+MNet+nnUNet
+
 
 https://hecktor.grand-challenge.org/Timeline/ 
 
@@ -34,3 +40,5 @@ Not providing test ground truth tumor delineations for outcome prediction, as we
 Task 1: Primary tumor (GTVp) and lymph nodes (GTVn) segmentation in PET/CT images.
 Task 2: Recurrence-Free Survival (RFS) prediction relying on PET/CT images and/or available clinical information.
 see details of tasks at https://hecktor.grand-challenge.org/Evaluation/
+
+

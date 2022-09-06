@@ -1,6 +1,6 @@
 # HECKTOR2022 (Team AIMERS)
-##Head and neck tumor and lymph node
-auto-segmentation for PET/CT
+<b>Head and neck tumor and lymph node auto-segmentation for PET/CT </b>
+
 
 Created by AIM Lab members: Julia Huang, Arnav Jain, Yashwanth Ravipati, Gregory Cain, Zezhong Ye, Aidan Boyd, and Benjamin Kann.
 <b>Keywords:</b> Segmentation · HECKTOR · Deep learning

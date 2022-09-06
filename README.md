@@ -1,6 +1,7 @@
 # HECKTOR2022 (Team AIMERS)
 
 Created by AIM Lab members: Julia Huang, Arnav Jain, Yashwanth Ravipati, Gregory Cain, Zezhong Ye, Aidan Boyd, and Benjamin Kann.
+<b>Keywords:</b> Segmentation · HECKTOR · Deep learning
 
 
 https://hecktor.grand-challenge.org/Timeline/ 

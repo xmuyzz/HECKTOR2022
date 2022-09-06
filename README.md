@@ -6,7 +6,7 @@ Created by AIM Lab members: Julia Huang, Arnav Jain, Yashwanth Ravipati, Gregory
 
 <b>Keywords:</b> Segmentation · HECKTOR · Deep learning
 
-#Models We Implemented for HECKTOR
+# Models We Implemented for HECKTOR
 2D nnUNet (not used as official submission)
 3D nnUNet
 Swin Transformer

@@ -2,7 +2,7 @@
 <b>Head and neck tumor and lymph node auto-segmentation for PET/CT </b>
 
 
-Created by AIM Lab members: Julia Huang, Arnav Jain, Yashwanth Ravipati, Gregory Cain, Zezhong Ye, Aidan Boyd, and Benjamin Kann.
+Created by AIM Lab members: Arnav Jain, Julia Huang, Yashwanth Ravipati, Gregory Cain, Zezhong Ye, Aidan Boyd, and Benjamin Kann.
 
 <b>Keywords:</b> Segmentation · HECKTOR · Deep learning
 
@@ -10,7 +10,7 @@ Created by AIM Lab members: Julia Huang, Arnav Jain, Yashwanth Ravipati, Gregory
 2D nnUNet (not used as official submission) <br>
 3D nnUNet <br>
 Swin Transformer <br>
-MNet+nnUNet<br>
+nnMNet<br>
 
 nnUNet citation: https://github.com/MIC-DKFZ/nnUNet <br>
 MNet citation: https://github.com/zfdong-code/mnet

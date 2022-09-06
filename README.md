@@ -1,4 +1,4 @@
-# HECKTOR2022
+# HECKTOR2022 (Team AIMERS)
 https://hecktor.grand-challenge.org/Timeline/ 
 
 May 24th, 2022: Registration to the challenge opens

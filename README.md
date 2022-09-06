@@ -1,4 +1,8 @@
 # HECKTOR2022 (Team AIMERS)
+
+Created by AIM Lab members: Julia Huang, Arnav Jain, Yashwanth Ravipati, Gregory Cain, Zezhong Ye, Aidan Boyd, and Benjamin Kann.
+
+
 https://hecktor.grand-challenge.org/Timeline/ 
 
 May 24th, 2022: Registration to the challenge opens

@@ -13,7 +13,7 @@ Swin Transformer <br>
 nnMNet<br>
 
 nnUNet citation: https://github.com/MIC-DKFZ/nnUNet <br>
-MNet citation: https://github.com/zfdong-code/mnet
+MNet citation: https://github.com/zfdong-code/mnet <br>
 Swin Transformer: https://github.com/Project-MONAI/research-contributions/tree/main/SwinUNETR
 
 # HECKTOR2022 Challenge Information

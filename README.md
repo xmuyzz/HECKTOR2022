@@ -8,10 +8,10 @@ Created by AIM Lab members: Arnav Jain, Julia Huang, Yashwanth Ravipati, Gregory
 
 # Models We Implemented for HECKTOR
 2D nnUNet <br>
-3D nnUNet (used as official submission) <br>
+<b> 3D nnUNet </b>  (used as official submission) <br>
 MNet <br>
-Swin Transformer (used as official submission) <br>
-nnMNet (used as official submission) <br>
+<b> Swin Transformer </b> (used as official submission) <br>
+<b> nnMNet </b> (used as official submission) <br>
 etc.<br>
 
 Note: nnUNets and nnMNets were implemented by Julia, Swin Transformer was implemented by Arnav.

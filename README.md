@@ -14,7 +14,7 @@ MNet <br>
 <b> nnMNet </b> (used as official submission) <br>
 etc.<br>
 
-Note: nnUNets and nnMNets were implemented by Julia, Swin Transformer was implemented by Arnav.
+Note: nnUNets and nnMNets were implemented, trained, and evaluated by Julia Huang, Swin Transformer was implemented, trained, and evaluated by Arnav Jain.
 
 nnUNet citation: https://github.com/MIC-DKFZ/nnUNet <br>
 MNet citation: https://github.com/zfdong-code/mnet <br>

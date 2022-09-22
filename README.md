@@ -6,6 +6,12 @@ Created by AIM Lab members: Arnav Jain, Julia Huang, Yashwanth Ravipati, Gregory
 
 <b>Keywords:</b> Segmentation · HECKTOR · Deep learning
 
+# What This Github Includes: Code For
+data preprocessing <br>
+model training (all 3 models) <br>
+generating model output masks <br>
+calculate models' dice scores and other metrics <br>
+
 # Models We Implemented for HECKTOR
 2D nnUNet <br>
 <b> 3D nnUNet </b>  (used as official submission) <br>

@@ -12,7 +12,7 @@ model training (all 3 models) <br>
 generating model output masks <br>
 calculate models' dice scores and other metrics <br>
 To replicate results, please go through the above process in order.
-
+![alt text](http://url/to/dataflowdiagram.png)
 
 # Models We Implemented for HECKTOR
 2D nnUNet <br>

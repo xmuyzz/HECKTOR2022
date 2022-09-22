@@ -6,12 +6,14 @@ Created by AIM Lab members: Arnav Jain, Julia Huang, Yashwanth Ravipati, Gregory
 
 <b>Keywords:</b> Segmentation · HECKTOR · Deep learning
 
-# What This Github Includes: Code For
+# Our Step By Step Process 
+
+including code for <br>
 data preprocessing <br>
 model training (all 3 models) <br>
 generating model output masks <br>
 calculate models' dice scores and other metrics <br>
-To replicate results, please go through the above process in order.
+To replicate results, please go through the below process in order.
 ![alt text](https://github.com/xmuyzz/HECKTOR2022/blob/master/dataflowdiagram.png?raw=true)
 
 # Models We Implemented for HECKTOR

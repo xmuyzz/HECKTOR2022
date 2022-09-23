@@ -13,7 +13,9 @@ To replicate results, please go through the below process in order.
 
 ### 1. Setup and Install Dependencies
 ```git clone https://github.com/xmuyzz/HECKTOR2022```<br>
+
 ```cd HECKTOR2022```<br>
+
 ```pip install -r requirements.txt```<br>
 
 ### 2. Preprocess the Datset

@@ -16,6 +16,10 @@ calculate models' dice scores and other metrics <br>
 To replicate results, please go through the below process in order.
 ![alt text](https://github.com/xmuyzz/HECKTOR2022/blob/master/dataflowdiagram.png?raw=true)
 
+1. Use our python/colab files in the utils and dataset folders to preprocess your dataset <br>
+2. Use our python/colab files in the models folder to train our 3 models on your dataset then generate their output masks<br>
+3. Use our python files in the evaluate folder to calculate aggregated dice scores and other metrics to measure our models' performances on your dataset. <br>
+
 # Models We Implemented for HECKTOR
 2D nnUNet <br>
 <b> 3D nnUNet </b>  (used as official submission) <br>

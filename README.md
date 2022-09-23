@@ -11,8 +11,9 @@ Created by AIM Lab members: Arnav Jain, Julia Huang, Yashwanth Ravipati, Gregory
 To replicate results, please go through the below process in order.
 ![alt text](https://github.com/xmuyzz/HECKTOR2022/blob/master/dataflowdiagram.png?raw=true)
 
-### 1. Install Dependencies
-
+### 1. Setup and Install Dependencies
+```git clone https://github.com/xmuyzz/HECKTOR2022```
+```cd HECKTOR2022```
 ```pip install -r requirements.txt```
 
 ### 2. Preprocess the Datset

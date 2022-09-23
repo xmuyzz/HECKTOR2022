@@ -20,7 +20,7 @@ To replicate results, please go through the below process in order.
 
 ### 2. Preprocess the Datset
 
-Run ```python ...py``` to register, resample, and crop the data into a usable `datasets` folder.
+Run ```python run/preprocessing.py``` to register, resample, and crop the data into a usable `datasets` folder.
 
 ### 3. Train the models
 For SwinUNet run:
@@ -48,7 +48,7 @@ Evalate the aggregated metrics using the scripts in `evaluation/diceaggregated.p
 
 ### 6. Post Processing
 
-Run `...py` to reverse the preprocessing steps and align the masks to the orientation and dimensions of the original images
+Run `run/alignment_script.py` to reverse the preprocessing steps and align the masks to the orientation and dimensions of the original images
 
 # Models We Implemented for HECKTOR
  - 2D nnUNet

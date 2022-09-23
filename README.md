@@ -8,27 +8,43 @@ Created by AIM Lab members: Arnav Jain, Julia Huang, Yashwanth Ravipati, Gregory
 
 # Our Step By Step Process 
 
-including code for <br>
-data preprocessing <br>
-model training (all 3 models) <br>
-generating model output masks <br>
-calculate models' dice scores and other metrics <br>
 To replicate results, please go through the below process in order.
 ![alt text](https://github.com/xmuyzz/HECKTOR2022/blob/master/dataflowdiagram.png?raw=true)
 
-1. Use our python/colab files in the utils and dataset folders to preprocess your dataset <br>
-2. Use our python/colab files in the models folder to train our 3 models on your dataset then generate their output masks. For the nnUNet and nnMNet, make sure to run the entire notebook (all lines). Detailed instructions are listed within the Colab Notebooks. <br>
-3. Use our python files in the evaluate folder to calculate aggregated dice scores and other metrics to measure our models' performances on your dataset. <br>
+### 1. Install Dependencies
+
+```pip install -r requirements.txt```
+
+### 2. Preprocess the Datset
+
+Run ```python ...py``` to register, resample, and crop the data into a usable `datasets` folder.
+
+### 3. Train the models
+For SwinUNet run:
+
+```python swin_unet.py```
+
+For nnUNet and nnMNet: 
+
+Follow the detailed instructions to run the code in the provided notebooks
+
+### 4. Evaluate Performance
+
+Evalate the aggregated metrics using the scripts in `evaluation/diceaggregated.py`
+
+### 5. Post Processing
+
+Run `...py` to reverse the preprocessing steps and align the masks to the orientation and dimensions of the original images
 
 # Models We Implemented for HECKTOR
-2D nnUNet <br>
-<b> 3D nnUNet </b>  (used as official submission) <br>
-MNet <br>
-<b> Swin Transformer </b> (used as official submission) <br>
-<b> nnMNet </b> (used as official submission) <br>
-etc.<br>
-
-Note: nnUNets and nnMNets were implemented, trained, and evaluated by Julia Huang, Swin Transformer was implemented, trained, and evaluated by Arnav Jain.
+ - 2D nnUNet
+ - <b> 3D nnUNet </b>  (used as official submission)
+ - MNet 
+ - <b> Swin Transformer </b> (used as official submission) 
+ - <b> nnMNet </b> (used as official submission) 
+ - 3D UNet 
+ - AttUNet
+ - ResUNet
 
 nnUNet citation: https://github.com/MIC-DKFZ/nnUNet <br>
 MNet citation: https://github.com/zfdong-code/mnet <br>

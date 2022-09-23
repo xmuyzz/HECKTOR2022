@@ -22,17 +22,28 @@ Run ```python ...py``` to register, resample, and crop the data into a usable `d
 ### 3. Train the models
 For SwinUNet run:
 
-```python swin_unet.py```
+```python run/swin_unet.py```
 
 For nnUNet and nnMNet: 
 
 Follow the detailed instructions to run the code in the provided notebooks
 
-### 4. Evaluate Performance
+
+### 6. Run Inference
+
+For SwinUnet run: 
+```python run/swin_inference.py```
+
+For nnUNet and nnMNet:
+
+Continue following the instructions in the provided notebooks
+
+
+### 5. Evaluate Performance
 
 Evalate the aggregated metrics using the scripts in `evaluation/diceaggregated.py`
 
-### 5. Post Processing
+### 6. Post Processing
 
 Run `...py` to reverse the preprocessing steps and align the masks to the orientation and dimensions of the original images
 
